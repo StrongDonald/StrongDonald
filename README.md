@@ -36,7 +36,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div>
 
-<h3 align="center">I am available now and can start right now.</h3>
+<h3 align="center">Available now and can start right now.</h3>
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
