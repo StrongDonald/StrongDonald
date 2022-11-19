@@ -13,7 +13,6 @@
   &nbsp;&nbsp;
   <a href="https://t.me/dragon99k" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <!-- <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a> -->
 </p>
 
 <p align="center" style="margin-bottom: 10px;">
@@ -21,7 +20,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/>
 </div>
 
 <div align="center">
@@ -29,7 +28,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/>
 </div>
 
 <div align="center">
@@ -39,10 +38,10 @@
 <h3 align="center">Available now and can start right now.</h3>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
 </div>
 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/dragon99k/dragon99k/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -127,7 +126,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
 </div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=dragon99k&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
