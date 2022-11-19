@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/portfolio.png" alt="Portfolio"/>
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/portfolio.png" alt="Portfolio"/>
 </div>
 
 <div align="center">
