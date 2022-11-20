@@ -15,33 +15,6 @@
   &nbsp;&nbsp;
 </p>
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app?username=dragon99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
-</p>
-
-<div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/portfolio.png" alt="Portfolio"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div>
-
-<h3 align="center">Available now and can start right now.</h3>
-
-<div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
-</div>
-
-<h3 align="center"><img src="https://github.com/dragon99k/dragon99k/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -124,6 +97,35 @@
     </tr>
   </table>
 </div>
+
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app?username=dragon99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/portfolio.png" alt="Portfolio"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
+</div>
+
+<h3 align="center">Available now and can start right now.</h3>
+
+<div align="center">
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
+</div>
+
+<h3 align="center"><img src="https://github.com/dragon99k/dragon99k/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+
 
 <div align="center">
   <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
