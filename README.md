@@ -13,10 +13,6 @@
   &nbsp;&nbsp;
 </p>
 
-<div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
-</div>
-
 <h3 align="center"><img src="https://github.com/dragon99k/dragon99k/blob/main/code.gif" height="20"/> Fullstack & Blockchain Developer </h3>
 
 <div align="center" style="witdh:100%"> 
