@@ -20,7 +20,7 @@
     <tr>
       <td valign="center" width="100px"><b>Frontend<b></td>
       <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>Hosting<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
