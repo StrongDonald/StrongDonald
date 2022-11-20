@@ -15,6 +15,11 @@
   &nbsp;&nbsp;
 </p>
 
+<div align="center">
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
+</div>
+
+<h3 align="center"><img src="https://github.com/dragon99k/dragon99k/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -98,6 +103,11 @@
   </table>
 </div>
 
+<div align="center">
+  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
+</div>
+
+
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=dragon99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
@@ -119,17 +129,6 @@
 </div>
 
 <h3 align="center">Available now and can start right now.</h3>
-
-<div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
-</div>
-
-<h3 align="center"><img src="https://github.com/dragon99k/dragon99k/blob/main/code.gif" height="20"/> Tech & Tools</h3>
-
-
-<div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
-</div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=dragon99k&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
