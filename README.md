@@ -22,47 +22,47 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/HTML-green" /> 
-        <img src="https://img.shields.io/badge/CSS-green" />
-        <img src="https://img.shields.io/badge/JavaScript-green" /> 
-        <img src="https://img.shields.io/badge/TypeScript-green" />
-        <img src="https://img.shields.io/badge/React-green" /> 
-        <img src="https://img.shields.io/badge/Vue-green" /> 
-        <img src="https://img.shields.io/badge/Angular-green" /> 
-        <img src="https://img.shields.io/badge/Bootstrap-green" /> 
-        <img src="https://img.shields.io/badge/Tailwind-green" /> 
-        <img src="https://img.shields.io/badge/Next-green" /> 
-        <img src="https://img.shields.io/badge/Nuxt-green" /> 
-        <img src="https://img.shields.io/badge/Shopify-green" /> 
-        <img src="https://img.shields.io/badge/Chart.js-green" />
+        <a href="#"><img src="https://img.shields.io/badge/HTML-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/CSS-green" /</a>
+        <a href="#"><img src="https://img.shields.io/badge/JavaScript-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/TypeScript-green" /</a>
+        <a href="#"><img src="https://img.shields.io/badge/React-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Vue-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Angular-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Bootstrap-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Tailwind-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Next-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Nuxt-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Shopify-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Chart.js-green" /</a>
       </td>      
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Django-green" /> 
-        <img src="https://img.shields.io/badge/Python-green" /> 
-        <img src="https://img.shields.io/badge/Selenium-green" />        
-        <img src="https://img.shields.io/badge/Ruby-green" /> 
-        <img src="https://img.shields.io/badge/Rails-green" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-green" /> 
-        <img src="https://img.shields.io/badge/Pandas-green" /> 
-        <img src="https://img.shields.io/badge/Numpy-green" /> 
-        <img src="https://img.shields.io/badge/Flask-green" /> 
-        <img src="https://img.shields.io/badge/PHP-green" /> 
-        <img src="https://img.shields.io/badge/Laravel-green" /> 
-        <img src="https://img.shields.io/badge/Node.js-green" /> 
-        <img src="https://img.shields.io/badge/Express-green" /> 
-        <img src="https://img.shields.io/badge/Nest.js-green" /> 
+        <a href="#"><img src="https://img.shields.io/badge/Django-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Python-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Selenium-green" />       </a>
+        <a href="#"><img src="https://img.shields.io/badge/Ruby-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Rails-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/BeautifulSoup-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Pandas-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Numpy-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Flask-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/PHP-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Laravel-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Node.js-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Express-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Nest.js-green" /></a>
       </td>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-green" /> 
-        <img src="https://img.shields.io/badge/CI/CD-green" /> 
-        <img src="https://img.shields.io/badge/Docker-green" /> 
-        <img src="https://img.shields.io/badge/TDD-green" /> 
-        <img src="https://img.shields.io/badge/Jira-green" /> 
-        <img src="https://img.shields.io/badge/Tezos-green" /> 
-        <img src="https://img.shields.io/badge/MySQL-green" /> 
-        <img src="https://img.shields.io/badge/NoSQL-green" /> 
-        <img src="https://img.shields.io/badge/MongoDB-green" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-green" /> 
+        <a href="#"><img src="https://img.shields.io/badge/AWS-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/CI/CD-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Docker-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/TDD-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Jira-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Tezos-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/MySQL-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/NoSQL-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/MongoDB-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-green" /></a>
       </td>
     </tr>
   </table>
@@ -74,65 +74,65 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-green" /> 
-        <img src="https://img.shields.io/badge/Solidity-green" /> 
-        <img src="https://img.shields.io/badge/Ethers.js-green" /> 
-        <img src="https://img.shields.io/badge/Solana-green" /> 
-        <img src="https://img.shields.io/badge/Golang-green" /> 
-        <img src="https://img.shields.io/badge/Rust-green" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-green" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-green" />
+        <a href="#"><img src="https://img.shields.io/badge/Web3.js-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Solidity-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Ethers.js-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Solana-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Golang-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Rust-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Smart Contract-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Bitcoin-green" /</a>
       </td>
      <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Photoshop-green" /> 
-       <img src="https://img.shields.io/badge/Adobe XD-green" /> 
-       <img src="https://img.shields.io/badge/Figma-green" /> 
-       <img src="https://img.shields.io/badge/Blender-green" /> 
-       <img src="https://img.shields.io/badge/WebGL-green" /> 
-       <img src="https://img.shields.io/badge/Three.js-green" /> 
+       <a href="#"><img src="https://img.shields.io/badge/Photoshop-green" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/Adobe XD-green" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/Figma-green" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/Blender-green" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/WebGL-green" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/Three.js-green" /></a>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/>
+  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/></a>
 </div>
 
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app?username=dragon99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
+    <a href="#"><img src="https://github-profile-trophy.vercel.app?username=dragon99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/></a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/>
+  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/></a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/portfolio.png" alt="Portfolio"/>
+  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/portfolio.png" alt="Portfolio"/></a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/>
+  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/></a>
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
+  <a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/></a>
 </div>
 
 <h3 align="center">Available now and can start right now.</h3>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=dragon99k&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=dragon99k&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/></a>
 <br/>
    
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dragon99k&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dragon99k&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
+  <a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=dragon99k&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27"></a>
+  <a href="#"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dragon99k&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27"></a>
   <br><br>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=dragon99k&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+  <a href="#"><img src = "https://github-readme-streak-stats.herokuapp.com?user=dragon99k&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"></a>
 </p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/></a>
 </p>
