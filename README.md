@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20Welcome%20to%20my%20github%20profile;Senior%20Full%20Stack%20Developer;Blockchain%20Developer;5%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20Welcome%20to%20my%20github%20profile;Senior%20Full%20Stack%20Developer;Blockchain%20Developer;5%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <p align="center">
