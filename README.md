@@ -22,19 +22,19 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <a href="#"><img src="https://img.shields.io/badge/HTML-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/CSS-green" /</a>
-        <a href="#"><img src="https://img.shields.io/badge/JavaScript-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/TypeScript-green" /</a>
-        <a href="#"><img src="https://img.shields.io/badge/React-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Vue-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Angular-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Bootstrap-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Tailwind-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Next-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Nuxt-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Shopify-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Chart.js-green" /</a>
+        <a href=""><img src="https://img.shields.io/badge/HTML-green" /></a>
+        <a href=""><img src="https://img.shields.io/badge/CSS-green" /</a>
+        <a href=""><img src="https://img.shields.io/badge/JavaScript-green" /></a>
+        <a href=""><img src="https://img.shields.io/badge/TypeScript-green" /</a>
+        <a href=""><img src="https://img.shields.io/badge/React-green" /></a>
+        <a href=""><img src="https://img.shields.io/badge/Vue-green" /></a>
+        <a href=""><img src="https://img.shields.io/badge/Angular-green" /></a>
+        <a href=""><img src="https://img.shields.io/badge/Bootstrap-green" /></a>
+        <a href=""><img src="https://img.shields.io/badge/Tailwind-green" /></a>
+        <a href=""><img src="https://img.shields.io/badge/Next-green" /></a>
+        <a href=""><img src="https://img.shields.io/badge/Nuxt-green" /></a>
+        <a href=""><img src="https://img.shields.io/badge/Shopify-green" /></a>
+        <a href=""><img src="https://img.shields.io/badge/Chart.js-green" /</a>
       </td>      
       <td valign="center" align="center" width="300px">
         <a href="#"><img src="https://img.shields.io/badge/Django-green" /></a>
