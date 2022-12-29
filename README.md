@@ -132,7 +132,6 @@
   <a href="#"><img src = "https://github-readme-streak-stats.herokuapp.com?user=dragon99k&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"></a>
 </p>
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/></a>
 </p>
