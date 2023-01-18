@@ -101,6 +101,7 @@
 
 
 <p align="center" style="margin-bottom: 10px;">
+ <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=larrymahumot&theme=react-dark&hide_border=true" />
     <a href="#"><img src="https://github-profile-trophy.vercel.app?username=dragon99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/></a>
 </p>
 
