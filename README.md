@@ -101,7 +101,6 @@
 
 
 <p align="center" style="margin-bottom: 10px;">
- <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=larrymahumot&theme=react-dark&hide_border=true" />
     <a href="#"><img src="https://github-profile-trophy.vercel.app?username=dragon99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/></a>
 </p>
 
@@ -123,7 +122,8 @@
 
 <h3 align="center">Available now and can start right now.</h3>
 
-<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=dragon99k&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/></a>
+<a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dragon99k&theme=react-dark&hide_border=true" /></a>
+  
 <br/>
    
 <p align = "center">
