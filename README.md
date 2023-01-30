@@ -140,5 +140,5 @@
   <br><br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dragon99k}/count.svg" /></p> 
 </div>
