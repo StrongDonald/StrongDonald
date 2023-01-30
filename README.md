@@ -136,3 +136,9 @@
 <p align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/></a>
 </p>
+
+  <br><br>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
+</div>
