@@ -78,8 +78,7 @@
         <a href="#"><img src="https://img.shields.io/badge/Solidity-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Ethers.js-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Solana-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Golang-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Rust-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Hardhat" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Smart Contract-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Bitcoin-green" /</a>
       </td>
