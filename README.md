@@ -112,13 +112,13 @@
   <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/portfolio.png" alt="Portfolio"/></a>
 </div-->
 
-<div align="center">
+<!--div align="center">
   <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/></a>
-</div>
+</div-->
 
-<div align="center">
+<!--div align="center">
   <a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/></a>
-</div>
+</div -->
 
 <h3 align="center">Available now and can start right now.</h3>
 
