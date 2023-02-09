@@ -127,11 +127,11 @@
 <br/-->
    
 <p align = "center">
-  <a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=dragon99k&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27"></a>
+  <!--a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=dragon99k&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27"></a>
   <a href="#"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dragon99k&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27"></a>
-  <br><br>
+  <br><br-->
   <a href="#"><img src = "https://github-readme-streak-stats.herokuapp.com?user=dragon99k&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"></a>
-</p-->
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
