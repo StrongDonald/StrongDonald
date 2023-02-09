@@ -126,18 +126,13 @@
   
 <br/-->
    
-<!--p align = "center">
+<p align = "center">
   <a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=dragon99k&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27"></a>
   <a href="#"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dragon99k&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27"></a>
   <br><br>
   <a href="#"><img src = "https://github-readme-streak-stats.herokuapp.com?user=dragon99k&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"></a>
-</p!-->
+</p-->
 
-<!--p align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/></a>
-</p>
-
-  <br><br -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dragon99k}/count.svg" /></p> 
