@@ -104,13 +104,13 @@
     <a href="#"><img src="https://github-profile-trophy.vercel.app?username=dragon99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/></a>
 </p>
 
-<!--div align="center">
-  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/></a>
-</div -->
-
 <div align="center">
-  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/portfolio.png" alt="Portfolio"/></a>
+  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/></a>
 </div>
+
+<!--div align="center">
+  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/portfolio.png" alt="Portfolio"/></a>
+</div-->
 
 <div align="center">
   <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/></a>
