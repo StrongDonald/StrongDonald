@@ -100,13 +100,13 @@
 </div>
 
 
-<!--p align="center" style="margin-bottom: 10px;">
+<p align="center" style="margin-bottom: 10px;">
     <a href="#"><img src="https://github-profile-trophy.vercel.app?username=dragon99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/></a>
-</p-->
+</p>
 
-<div align="center">
+<!--div align="center">
   <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/></a>
-</div>
+</div -->
 
 <div align="center">
   <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/portfolio.png" alt="Portfolio"/></a>
