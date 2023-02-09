@@ -120,7 +120,7 @@
   <a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/></a>
 </div -->
 
-<h3 align="center">Available now and can start right now.</h3>
+<!--h3 align="center">Available now and can start right now.</h3>
 
 <a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dragon99k&theme=react-dark&hide_border=true" /></a>
   
@@ -137,7 +137,7 @@
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/></a>
 </p>
 
-  <br><br>
+  <br><br -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dragon99k}/count.svg" /></p> 
