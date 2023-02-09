@@ -78,9 +78,7 @@
         <a href="#"><img src="https://img.shields.io/badge/Solidity-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Ethers.js-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Solana-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Hardhat" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Smart Contract-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Bitcoin-green" /</a>
       </td>
      <td valign="center" align="center" width="300px">
        <a href="#"><img src="https://img.shields.io/badge/Photoshop-green" /></a>
