@@ -11,7 +11,7 @@
   &nbsp;&nbsp;
 </p>
 
-<h3 align="center"><img src="https://github.com/dragon99k/dragon99k/blob/main/code.gif" height="20"/> Fullstack & Blockchain Developer </h3>
+<h3 align="center"><img src="https://github.com/dragon99k/dragon99k/blob/main/code.gif" height="20"/> Fullstack & Blockchain Development </h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
