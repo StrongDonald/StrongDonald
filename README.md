@@ -16,11 +16,10 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
-- 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
+- 🔭 <b>Frontend</b> : React.js
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
-- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django / C / C++ / ASP.NET / C#
-- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
+- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django / C / C++ /wordpress
+- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB
 - 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
 
 <p align="center" style="margin-bottom: 10px;">
