@@ -16,9 +16,9 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js
+- 🔭 <b>Frontend</b> : React.js, Angular.js / Vue.js
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
-- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django / C / C++ /wordpress
+- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django /wordpress / Shopify / Marketo
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB
 - 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
 
