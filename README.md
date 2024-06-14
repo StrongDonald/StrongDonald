@@ -79,7 +79,7 @@
         <a href="#"><img src="https://img.shields.io/badge/Ethers.js-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Rust-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Golang-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Move-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/C++-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Haskell-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Python-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Smart Contract-green" /></a>
